@@ -11,3 +11,4 @@
  <li>https://unsplash.com</li>
  <li>https://freeimages.com</li>
 </ul>
+<p>Display val: inline, inline-block, block</p>
